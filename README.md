@@ -21,6 +21,8 @@ Descarga la última versión disponible del juego desde la sección de Releases.
 2. Extrae los archivos del ZIP.
 3. Ejecuta el archivo del juego.
 
+(Nota: manten el .exe y el .pck en la misma carpeta para su correcto funcionamiento)
+
 ## Proyecto
 
 Este repositorio contiene archivos y versiones relacionadas con el desarrollo de MERA.
