@@ -15,11 +15,19 @@ Descarga la última versión disponible del juego desde la sección de Releases.
 - **Tipo de proyecto:** Minijuegos educativos
 - **Nombre:** MERA
 
-## Instalación
+## Instalación (Windows)
 
 1. Descarga el ZIP de la plataforma correspondiente desde Releases.
 2. Extrae los archivos del ZIP.
 3. Ejecuta el archivo del juego.
+
+(Nota: manten el .exe y el .pck en la misma carpeta para su correcto funcionamiento)
+
+## Instalación(Android)
+
+1. Descarga el APK de la plataforma correspondiente desde Releases.
+2. Descarga el APK desde DOcumentos o desde un explorador de archivos.
+3. Ejecuta el juego y aceptar todos los permisos.
 
 (Nota: manten el .exe y el .pck en la misma carpeta para su correcto funcionamiento)
 
