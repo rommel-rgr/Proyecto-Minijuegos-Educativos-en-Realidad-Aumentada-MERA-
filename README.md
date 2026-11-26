@@ -4,7 +4,7 @@ Un proyecto de minijuegos educativos desarrollado en Godot, que busca combinar e
 
 ## Descargar el juego
 
-[![Descargar MERA](https://img.shields.io/badge/Descargar-MERA-brightgreen?style=for-the-badge&logo=github)](https://github.com/rommel-rgr/Proyecto-Minjuegos-Educativos-en-Realidad-Aumentada-MERA-/releases/latest)
+[![Descargar MERA](https://img.shields.io/badge/Descargar-MERA-brightgreen?style=for-the-badge&logo=github)](https://github.com/rommel-rgr/Proyecto-Minijuegos-Educativos-en-Realidad-Aumentada-MERA-/releases/)
 
 Descarga la última versión disponible del juego desde la sección de Releases.
 
