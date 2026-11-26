@@ -1,0 +1,26 @@
+# MERA – Minijuegos Educativos en Realidad Aumentada
+
+Un proyecto de minijuegos educativos desarrollado en Godot, que busca combinar el aprendizaje y la tecnología a través de experiencias interactivas.
+
+## Descargar el juego
+
+[![Descargar MERA](https://img.shields.io/badge/Descargar-MERA-brightgreen?style=for-the-badge&logo=github)](https://github.com/rommel-rgr/Proyecto-Minjuegos-Educativos-en-Realidad-Aumentada-MERA-/releases/latest)
+
+Descarga la última versión disponible del juego desde la sección de Releases.
+
+## Información del proyecto
+
+- **Motor:** Godot Engine
+- **Plataforma:** Windows y Android
+- **Tipo de proyecto:** Minijuegos educativos
+- **Nombre:** MERA
+
+## Instalación
+
+1. Descarga el ZIP de la plataforma correspondiente desde Releases.
+2. Extrae los archivos del ZIP.
+3. Ejecuta el archivo del juego.
+
+## Proyecto
+
+Este repositorio contiene archivos y versiones relacionadas con el desarrollo de MERA.
