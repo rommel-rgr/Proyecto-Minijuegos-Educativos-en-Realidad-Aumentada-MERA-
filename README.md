@@ -26,7 +26,7 @@ Descarga la última versión disponible del juego desde la sección de Releases.
 ## Instalación (Android)
 
 1. Descarga el APK de la plataforma correspondiente desde Releases.
-2. Descarga el APK desde DOcumentos o desde un explorador de archivos.
+2. Descarga el APK desde Documentos o desde un explorador de archivos.
 3. Ejecuta el juego y aceptar todos los permisos.
 
 (Nota: manten el .exe y el .pck en la misma carpeta para su correcto funcionamiento)
